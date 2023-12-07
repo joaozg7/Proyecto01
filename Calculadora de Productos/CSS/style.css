@@ -1,0 +1,30 @@
+#tit{
+    text-align: center;
+    font-size: 50px;
+}
+
+form{
+    text-align: justify;
+    position: relative;
+    left: 500px;
+    background-color: cornflowerblue;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
+    margin-right: 1000px;
+    color: white;
+}
+
+input{
+    padding-top: 10px;
+    border-radius: 6px;
+}
+
+.p1, 
+.p2, 
+.p3, 
+.p4, 
+.p5,
+.p6 {
+    padding-bottom: 30px;
+}
